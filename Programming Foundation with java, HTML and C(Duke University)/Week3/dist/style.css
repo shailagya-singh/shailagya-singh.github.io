@@ -1,0 +1,41 @@
+canvas{
+  width:400px;
+  height:400px;
+  border:1px solid GhostWhite;
+  border-radius:25px;
+  background-color:black;
+}
+body{
+  background-color:#033B4D;
+}
+p{
+  border:1px solid GhostWhite;
+  color:GhostWhite;
+}
+.button1{
+  border-radius:25px;
+}
+.button2{
+  border-radius:25px;
+}
+h1{
+  text-align:center;
+  color:GhostWhite;
+  background-color:#262107;
+  border:1px solid;
+  border-radius:25px;
+  padding:0px 17px 5px 7px;
+  margin:0px 2px 15px 2px;
+}
+div{
+  margin:0px 2px 15px 2px;
+  padding:0px 2px 15px 2px;
+  border:1px solid;
+  align:center;
+  border-radius:25px;
+  background-image:url("https://www.desktopbackground.org/p/2010/06/23/37725_cool-colorful-backgrounds_1600x1200_h.jpg");
+  background-size:cover;
+}
+h4{
+  color:GhostWhite;
+}
